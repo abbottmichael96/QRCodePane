@@ -25,7 +25,7 @@ Hi! Here is a simple QRCode pane that I have created with inspiration from the F
 ### Links
 
 - Challenge URL: [FrontendMentor.io](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- GH Pages URL: [GH Pages](https://your-live-site-url.com)
+- GH Pages URL: [GH Pages](https://abbottmichael96.github.io/QRCodePane/)
 
 ## My process
 
